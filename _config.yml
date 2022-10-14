@@ -3,13 +3,13 @@
 
 
 # Name of website
-title: Pierre Clavier
+title: Arnaud Gardille
 
 # Short description of your site
-description: Research Engineer at Sorbonne Universite
+description: Msc
 
 # Your name to show in the footer
-author: Pierre Clavier
+author: Arnaud Gardille
 
 # --- List of links in the navigation bar --- #
 
@@ -43,13 +43,13 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "pierre.clavier@polytechnique.edu"
+  email: "arnaud.gardille@ens-paris-saclay.fr"
   
-  github: pierreclavier
+  github: arnaudgardille
   
   rss: False
 #  reddit: yourname
-  linkedin: pierre-clavier-823171135
+  linkedin: arnaud-gardille
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -64,7 +64,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: citations?user=-KnIaGsAAAAJ
+  #google-scholar: citations?user=-KnIaGsAAAAJ
 
 # --- General options --- #
 
