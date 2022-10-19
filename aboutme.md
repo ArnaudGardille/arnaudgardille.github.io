@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Pierre Clavier
+title: Arnaud Gardille
 subtitle: About me
 show-avatar: False
 ---
 
-<img style="float: right;" src="/assets/img/linkedin_Pierre.jpg" width="300" hspace="30" vspace="30">
+<img style="float: right;" src="/assets/img/Arnaud-Gardille_HD.tif" width="300" hspace="30" vspace="30">
 {: style="text-align: justify"}
-Hello ! I am currently a PhD candidate in Statistics and Machine Learning. I am working at [CMAP](https://portail.polytechnique.edu/cmap/fr/page-daccueil) in [Ecole Polytechnique](https://www.polytechnique.edu/) supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) and [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/). I am also part of the [INRIA](https://www.inria.fr/fr) team [HeKA](https://team.inria.fr/heka/) focused on Health data and model-driven Knowledge Acquisition. Before this, I was a Master student in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris-Saclay](https://ens-paris-saclay.fr/).
+Hello ! I am Master student in Mathematics and Machine Learning at [MVA](https://www.master-mva.com/) in [ENS Paris-Saclay](https://ens-paris-saclay.fr/). 
+
+I try to combinine a solid theoretical background with practical skills to do impactful research. 
+
+
+My other areas of interest are history, economy and geopolitical matters. I am a scout chef for several years, and like to help Youngers to discover nature and groupwork. I also like jogging and windsurfing.
+
+I did a 6 months of research internship for Thales in Montréal under the supervision of Ola Ahmad. I developped a methods for Out-Of-Distribution environment detection that aims at enambling a safer use of Reainfocement Learning. 
+supervised by [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) and [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/fr/). I am also part of the [INRIA](https://www.inria.fr/fr) team [HeKA](https://team.inria.fr/heka/) focused on Health data and model-driven Knowledge Acquisition. Before this, I was a 
 {: style="text-align: justify"}
 
 I am interested in systems at the intersection of mathematics and computation, in having analytical insights on real-world applications, especially in problem related to healthcare.
